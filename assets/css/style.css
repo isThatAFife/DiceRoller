@@ -1,0 +1,8 @@
+body {
+    background: url(../images/die.webp);
+    background-repeat: no-repeat;
+    background-size:100%;
+    color: white;
+    display:inline;
+    text-align: center;
+}
