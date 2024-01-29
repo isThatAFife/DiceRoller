@@ -1,7 +1,9 @@
+
+
 body {
-    background: url(../images/die.webp);
+    min-height: 100vh;
     background-repeat: no-repeat;
-    background-size:100%;
+    background-size:cover;
     color: white;
     display: flex;
     flex-direction: column;
